@@ -99,7 +99,7 @@ def get_vectors(cells, num_coord):
             # # real cell layer shape
             # new_cell_x = [point[0] for point in all_coord]
             # new_cell_y = [point[1] for point in all_coord]
-            # plt.scatter(new_cell_x, new_cell_y, c='g')
+            # plt.scatter(new_cell_x, new_cell_y, c='g', s=1)
             # plt.title("Real cell layer shape")
             # # plt.plot(new_cell_x, new_cell_y)
             # plt.show()
@@ -107,6 +107,8 @@ def get_vectors(cells, num_coord):
             # # approximation
             # new_cell_x = [point[0] for point in chosen_coord]
             # new_cell_y = [point[1] for point in chosen_coord]
+            # new_cell_x.append(chosen_coord[0][0])
+            # new_cell_y.append(chosen_coord[0][1])
             # # plt.scatter(new_cell_x, new_cell_y)
             # plt.plot(new_cell_x, new_cell_y, '.r-')
             # plt.title("Approximation")

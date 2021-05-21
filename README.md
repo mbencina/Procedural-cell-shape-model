@@ -5,7 +5,9 @@ This project was done as a seminar work for a course in Advance Computer Graphic
 ## Installation instructions
 
 #### Requirements
-- Python >= 3.9 (it should work with lower versions, but it was tested with 3.9).
+- Python >= 3.9 (it should work with lower versions, but it was tested with 3.9).  
+
+Please also note that not all dependencies listed in _requirements.txt_ are actually required for running the project.
 
 ### Windows
 

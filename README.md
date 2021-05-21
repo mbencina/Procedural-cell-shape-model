@@ -1,4 +1,5 @@
 # Procedural cell shape model
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project was done as a seminar work for a course in Advanced Computer Graphics (Napredna računalniška grafika - NRG).  
 

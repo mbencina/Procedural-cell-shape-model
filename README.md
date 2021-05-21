@@ -1,6 +1,13 @@
 # Procedural cell shape model
 
-This project was done as a seminar work for a course in Advance Computer Graphics (Napredna računalniška grafika - NRG)
+This project was done as a seminar work for a course in Advanced Computer Graphics (Napredna računalniška grafika - NRG).  
+
+### Project description
+The goal of this seminar is to create a procedural model of call membrane shape extracted from real-life cell data. The
+cell data can be obtained from Allan Cell institute database [1], where thousands of cells are labeled, and their shape
+can be extracted and used for defining the membrane model parameters. Use statistical shape modeling (e.g. [3]) to
+define a cell shape. The model must allow users to customize the basic cell shape parameters while retaining the
+randomness of shape through model seed parameter. You can get a basic idea of what cells look like in [2].
 
 ## Installation instructions
 
